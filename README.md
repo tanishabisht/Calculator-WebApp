@@ -1,6 +1,8 @@
-# Calculator
+# UI-Calculator
+This repository contains a simple Calculator form created using HTML, CSS and JavaScript. The calculator is styled with Bootstrap 4 to make it responsive.
 
-This is a simple working calculator that I made using html, css and javascript.
-Additional css framework that was used is Bootstrap 4 to make the calculator application responsive.
+## Screenshot
+<img src="./calculator_UI.JPG" style="width:45rem" />
 
-![No pic found](./calculator_UI.JPG?raw=true)
+## Technologies used
+`HTML` `CSS` `Bootstrap` `JavaScript`
